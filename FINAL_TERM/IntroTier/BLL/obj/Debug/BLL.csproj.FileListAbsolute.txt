@@ -1,0 +1,28 @@
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\IntroTier\BLL\bin\Debug\BLL.dll
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\IntroTier\BLL\bin\Debug\BLL.pdb
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\IntroTier\BLL\bin\Debug\DAL.dll
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\IntroTier\BLL\bin\Debug\DAL.pdb
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\IntroTier\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\IntroTier\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\IntroTier\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\IntroTier\BLL\obj\Debug\BLL.dll
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\IntroTier\BLL\obj\Debug\BLL.pdb
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\IntroTier\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\IntroTier\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\IntroTier\BLL\bin\Debug\DAL.dll.config
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\IntroTier\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\IntroTier\BLL\bin\Debug\EntityFramework.xml
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\IntroTier\BLL\bin\Debug\BLL.dll
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\IntroTier\BLL\bin\Debug\BLL.pdb
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\IntroTier\BLL\bin\Debug\AutoMapper.dll
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\IntroTier\BLL\bin\Debug\DAL.dll
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\IntroTier\BLL\bin\Debug\EntityFramework.dll
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\IntroTier\BLL\bin\Debug\DAL.pdb
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\IntroTier\BLL\bin\Debug\DAL.dll.config
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\IntroTier\BLL\bin\Debug\AutoMapper.xml
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\IntroTier\BLL\bin\Debug\EntityFramework.xml
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\IntroTier\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\IntroTier\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\IntroTier\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\IntroTier\BLL\obj\Debug\BLL.dll
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\IntroTier\BLL\obj\Debug\BLL.pdb

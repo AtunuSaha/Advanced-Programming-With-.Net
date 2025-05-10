@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A69026-C9DF-4CE8-8106-653376FAA959}|FinalProject\\FinalProject.csproj|d:\\9th semester\\advanced programming with .net\\final_term\\finalproject\\finalproject\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A69026-C9DF-4CE8-8106-653376FAA959}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EE78B1-DFBD-47EF-9794-52DD83E28F50}|DAL\\DAL.csproj|D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\dal\\interfaces\\ibookfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85EE78B1-DFBD-47EF-9794-52DD83E28F50}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ibookfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EE78B1-DFBD-47EF-9794-52DD83E28F50}|DAL\\DAL.csproj|d:\\9th semester\\advanced programming with .net\\final_term\\finalproject\\dal\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85EE78B1-DFBD-47EF-9794-52DD83E28F50}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70FDAF8-052B-4E73-8514-FB113E40950C}|BLL\\BLL.csproj|D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70FDAF8-052B-4E73-8514-FB113E40950C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70FDAF8-052B-4E73-8514-FB113E40950C}|BLL\\BLL.csproj|D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\bll\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70FDAF8-052B-4E73-8514-FB113E40950C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EE78B1-DFBD-47EF-9794-52DD83E28F50}|DAL\\DAL.csproj|D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\dal\\ef\\bookreviewcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85EE78B1-DFBD-47EF-9794-52DD83E28F50}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\bookreviewcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A69026-C9DF-4CE8-8106-653376FAA959}|FinalProject\\FinalProject.csproj|D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\finalproject\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A69026-C9DF-4CE8-8106-653376FAA959}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\FinalProject\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\AuthorController.cs",
+              "ToolTip": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\FinalProject\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:22:42.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\DAL\\Repos\\BookRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\BookRepo.cs",
+              "ToolTip": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\DAL\\Repos\\BookRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\BookRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:00:10.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\BLL\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\BookService.cs",
+              "ToolTip": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\BLL\\Services\\BookService.cs",
+              "RelativeToolTip": "BLL\\Services\\BookService.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:59:22.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\BLL\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AuthorService.cs",
+              "ToolTip": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\BLL\\Services\\AuthorService.cs",
+              "RelativeToolTip": "BLL\\Services\\AuthorService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:59:18.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookReviewContext.cs",
+              "DocumentMoniker": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\DAL\\EF\\BookReviewContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\BookReviewContext.cs",
+              "ToolTip": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\DAL\\EF\\BookReviewContext.cs",
+              "RelativeToolTip": "DAL\\EF\\BookReviewContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:59:13.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookFeatures.cs",
+              "DocumentMoniker": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\DAL\\Interfaces\\IBookFeatures.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IBookFeatures.cs",
+              "ToolTip": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\DAL\\Interfaces\\IBookFeatures.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IBookFeatures.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:36:53.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\FinalProject\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\FinalProject\\FinalProject\\Controllers\\BookController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:34:38.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\IntroLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75471AB3-C671-4E38-B55D-2056691DFCCA}|IntroLayer\\IntroLayer.csproj|F:\\IntroLayer\\introlayer\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{75471AB3-C671-4E38-B55D-2056691DFCCA}|IntroLayer\\IntroLayer.csproj|solutionrelative:introlayer\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75471AB3-C671-4E38-B55D-2056691DFCCA}|IntroLayer\\IntroLayer.csproj|f:\\introlayer\\introlayer\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75471AB3-C671-4E38-B55D-2056691DFCCA}|IntroLayer\\IntroLayer.csproj|solutionrelative:introlayer\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94F4A73-4E99-4B75-BB4C-0C2B88699DE9}|BLL\\BLL.csproj|F:\\IntroLayer\\bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94F4A73-4E99-4B75-BB4C-0C2B88699DE9}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E58D6F3-D30E-433A-8490-915BD61F28E7}|DAL\\DAL.csproj|F:\\IntroLayer\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E58D6F3-D30E-433A-8490-915BD61F28E7}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E58D6F3-D30E-433A-8490-915BD61F28E7}|DAL\\DAL.csproj|F:\\IntroLayer\\dal\\ef\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E58D6F3-D30E-433A-8490-915BD61F28E7}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E58D6F3-D30E-433A-8490-915BD61F28E7}|DAL\\DAL.csproj|F:\\IntroLayer\\dal\\ef\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E58D6F3-D30E-433A-8490-915BD61F28E7}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E58D6F3-D30E-433A-8490-915BD61F28E7}|DAL\\DAL.csproj|F:\\IntroLayer\\dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E58D6F3-D30E-433A-8490-915BD61F28E7}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94F4A73-4E99-4B75-BB4C-0C2B88699DE9}|BLL\\BLL.csproj|F:\\IntroLayer\\bll\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94F4A73-4E99-4B75-BB4C-0C2B88699DE9}|BLL\\BLL.csproj|solutionrelative:bll\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "F:\\IntroLayer\\DAL\\EF\\Course.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Course.cs",
+              "ToolTip": "F:\\IntroLayer\\DAL\\EF\\Course.cs",
+              "RelativeToolTip": "DAL\\EF\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:42:12.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TESTContext.cs",
+              "DocumentMoniker": "F:\\IntroLayer\\DAL\\EF\\TESTContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TESTContext.cs",
+              "ToolTip": "F:\\IntroLayer\\DAL\\EF\\TESTContext.cs",
+              "RelativeToolTip": "DAL\\EF\\TESTContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:59:52.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "F:\\IntroLayer\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "F:\\IntroLayer\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:41:38.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "F:\\IntroLayer\\BLL\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CourseService.cs",
+              "ToolTip": "F:\\IntroLayer\\BLL\\Services\\CourseService.cs",
+              "RelativeToolTip": "BLL\\Services\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:14:53.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\IntroLayer\\IntroLayer\\Web.config",
+              "RelativeDocumentMoniker": "IntroLayer\\Web.config",
+              "ToolTip": "F:\\IntroLayer\\IntroLayer\\Web.config",
+              "RelativeToolTip": "IntroLayer\\Web.config",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-07T17:20:16.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "F:\\IntroLayer\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\StudentRepo.cs",
+              "ToolTip": "F:\\IntroLayer\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\StudentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:36:57.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "F:\\IntroLayer\\BLL\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StudentService.cs",
+              "ToolTip": "F:\\IntroLayer\\BLL\\Services\\StudentService.cs",
+              "RelativeToolTip": "BLL\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:30:31.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "F:\\IntroLayer\\IntroLayer\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroLayer\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\IntroLayer\\IntroLayer\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroLayer\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T16:24:20.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

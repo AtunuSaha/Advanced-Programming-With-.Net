@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\LabTask_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C679219B-293E-4029-A82E-05C3CEECCAB9}|BLL\\BLL.csproj|d:\\9th semester\\advanced programming with .net\\final_term\\labtask_final\\bll\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C679219B-293E-4029-A82E-05C3CEECCAB9}|BLL\\BLL.csproj|solutionrelative:bll\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F2CFF9-9108-4D5A-AC14-82CEAA87DEC1}|LabTask_Final\\LabTask_Final.csproj|d:\\9th semester\\advanced programming with .net\\final_term\\labtask_final\\labtask_final\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F2CFF9-9108-4D5A-AC14-82CEAA87DEC1}|LabTask_Final\\LabTask_Final.csproj|solutionrelative:labtask_final\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F2CFF9-9108-4D5A-AC14-82CEAA87DEC1}|LabTask_Final\\LabTask_Final.csproj|d:\\9th semester\\advanced programming with .net\\final_term\\labtask_final\\labtask_final\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E3F2CFF9-9108-4D5A-AC14-82CEAA87DEC1}|LabTask_Final\\LabTask_Final.csproj|solutionrelative:labtask_final\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\LabTask_Final\\LabTask_Final\\Web.config",
+              "RelativeDocumentMoniker": "LabTask_Final\\Web.config",
+              "ToolTip": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\LabTask_Final\\LabTask_Final\\Web.config",
+              "RelativeToolTip": "LabTask_Final\\Web.config",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-08T10:09:58.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\LabTask_Final\\BLL\\Services\\NewsService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\NewsService.cs",
+              "ToolTip": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\LabTask_Final\\BLL\\Services\\NewsService.cs",
+              "RelativeToolTip": "BLL\\Services\\NewsService.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAA/wA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:28:07.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\LabTask_Final\\LabTask_Final\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "LabTask_Final\\Controllers\\NewsController.cs",
+              "ToolTip": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\LabTask_Final\\LabTask_Final\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "LabTask_Final\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:25:25.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

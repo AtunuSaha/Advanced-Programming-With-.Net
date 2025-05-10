@@ -1,0 +1,14 @@
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\FinalProject\BLL\bin\Debug\BLL.dll
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\FinalProject\BLL\bin\Debug\BLL.pdb
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\FinalProject\BLL\bin\Debug\DAL.dll
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\FinalProject\BLL\bin\Debug\DAL.pdb
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\FinalProject\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\FinalProject\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\FinalProject\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\FinalProject\BLL\obj\Debug\BLL.dll
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\FinalProject\BLL\obj\Debug\BLL.pdb
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\FinalProject\BLL\bin\Debug\AutoMapper.dll
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\FinalProject\BLL\bin\Debug\EntityFramework.dll
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\FinalProject\BLL\bin\Debug\DAL.dll.config
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\FinalProject\BLL\bin\Debug\AutoMapper.xml
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\FinalProject\BLL\bin\Debug\EntityFramework.xml

@@ -1,0 +1,47 @@
+*****How to build a 3-tier architecture in Vs*********
+
+1) Create a project for Application Layer using --web application ASP .NET.
+
+2)Create a project for BLL using class library (C#) .NET Framework.
+
+3)Create a project for DAL using class library (C#) .NET Framework.
+
+*******Every Class should be PUBLIC***********
+
+4) Add reference to each other:
+          Go to Application Layer, then add reference to BLL.
+          Then BLL to DAL.
+
+******Build the Solution********
+
+5) Now, add a controller to the Application Layer as per requirement.
+
+6) In BLL, add two folders:
+                       DTOs and Services.
+                       For example:
+                       DTOs >> StudentDTO.cs
+                       Services >> StudentService.cs
+                       (In this, use the AutoMapper package.)
+
+7)In DAL, add two folders:
+                       EF and Repos.
+                       For example:
+                       EF >> Student.cs, anynameContext.cs
+                       Repos >> StudentRepo.cs
+
+8)Then, go to Application layer >> web.config and modify the configuration
+<connectionStrings>
+  <add name="anynameContext" connectionString="server=; initial catalog=; integrated security=true;" providerName="System.Data.SqlClient" />
+</connectionStrings>
+
+9)Now, open Package Solution, select the Default project >>> DAL
+
+Run the following commands:
+              enable-migrations
+              add-migration [anyname]
+              update-database
+
+10)If you have further any update just execute this two command:
+                  add-migration [updated name]
+                  update-database
+

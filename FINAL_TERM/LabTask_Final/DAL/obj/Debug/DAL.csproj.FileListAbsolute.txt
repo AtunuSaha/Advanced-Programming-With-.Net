@@ -1,0 +1,14 @@
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\LabTask_Final\DAL\bin\Debug\DAL.dll
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\LabTask_Final\DAL\bin\Debug\DAL.pdb
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\LabTask_Final\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\LabTask_Final\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\LabTask_Final\DAL\obj\Debug\DAL.dll
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\LabTask_Final\DAL\obj\Debug\DAL.pdb
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\LabTask_Final\DAL\bin\Debug\DAL.dll.config
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\LabTask_Final\DAL\bin\Debug\EntityFramework.dll
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\LabTask_Final\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\LabTask_Final\DAL\bin\Debug\EntityFramework.xml
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\LabTask_Final\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\LabTask_Final\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\LabTask_Final\DAL\obj\Debug\DAL.Migrations.InitNews.resources
+D:\9th Semester\ADVANCED PROGRAMMING WITH .NET\FINAL_TERM\LabTask_Final\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

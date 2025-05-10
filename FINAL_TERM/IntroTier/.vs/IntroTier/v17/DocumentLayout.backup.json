@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroTier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A47251E5-493A-4722-9D2D-D4CED70A6EA0}|IntroTier\\IntroTier.csproj|d:\\9th semester\\advanced programming with .net\\final_term\\introtier\\introtier\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47251E5-493A-4722-9D2D-D4CED70A6EA0}|IntroTier\\IntroTier.csproj|solutionrelative:introtier\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroTier\\IntroTier\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroTier\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroTier\\IntroTier\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroTier\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T04:15:05.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\TieePMS\DAL\bin\Debug\DAL.dll.config
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\TieePMS\DAL\bin\Debug\DAL.dll
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\TieePMS\DAL\bin\Debug\DAL.pdb
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\TieePMS\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\TieePMS\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\TieePMS\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\TieePMS\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\TieePMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\TieePMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\TieePMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\TieePMS\DAL\obj\Debug\DAL.dll
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\TieePMS\DAL\obj\Debug\DAL.pdb
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\TieePMS\DAL\obj\Debug\DAL.Migrations.InitDB.resources
+C:\Users\Tanvir Ahmed\Desktop\.NET\C\TieePMS\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+F:\TieePMS\DAL\bin\Debug\DAL.dll.config
+F:\TieePMS\DAL\bin\Debug\DAL.dll
+F:\TieePMS\DAL\bin\Debug\DAL.pdb
+F:\TieePMS\DAL\bin\Debug\EntityFramework.dll
+F:\TieePMS\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\TieePMS\DAL\bin\Debug\EntityFramework.xml
+F:\TieePMS\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\TieePMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\TieePMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\TieePMS\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\TieePMS\DAL\obj\Debug\DAL.dll
+F:\TieePMS\DAL\obj\Debug\DAL.pdb
+F:\TieePMS\DAL\obj\Debug\DAL.Migrations.InitDB.resources
+F:\TieePMS\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroEFCF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0699A4-610A-4EC9-A151-489A3169402A}|IntroEFCF\\IntroEFCF.csproj|D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroEFCF\\introefcf\\ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0699A4-610A-4EC9-A151-489A3169402A}|IntroEFCF\\IntroEFCF.csproj|solutionrelative:introefcf\\ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0699A4-610A-4EC9-A151-489A3169402A}|IntroEFCF\\IntroEFCF.csproj|D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroEFCF\\introefcf\\ef\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0699A4-610A-4EC9-A151-489A3169402A}|IntroEFCF\\IntroEFCF.csproj|solutionrelative:introefcf\\ef\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0699A4-610A-4EC9-A151-489A3169402A}|IntroEFCF\\IntroEFCF.csproj|d:\\9th semester\\advanced programming with .net\\final_term\\introefcf\\introefcf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0699A4-610A-4EC9-A151-489A3169402A}|IntroEFCF\\IntroEFCF.csproj|solutionrelative:introefcf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0699A4-610A-4EC9-A151-489A3169402A}|IntroEFCF\\IntroEFCF.csproj|d:\\9th semester\\advanced programming with .net\\final_term\\introefcf\\introefcf\\migrations\\202412231541234_introwithstudentcoursefaculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0699A4-610A-4EC9-A151-489A3169402A}|IntroEFCF\\IntroEFCF.csproj|solutionrelative:introefcf\\migrations\\202412231541234_introwithstudentcoursefaculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0699A4-610A-4EC9-A151-489A3169402A}|IntroEFCF\\IntroEFCF.csproj|D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroEFCF\\introefcf\\ef\\tables\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0699A4-610A-4EC9-A151-489A3169402A}|IntroEFCF\\IntroEFCF.csproj|solutionrelative:introefcf\\ef\\tables\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0699A4-610A-4EC9-A151-489A3169402A}|IntroEFCF\\IntroEFCF.csproj|D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroEFCF\\introefcf\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0699A4-610A-4EC9-A151-489A3169402A}|IntroEFCF\\IntroEFCF.csproj|solutionrelative:introefcf\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroEFCF\\IntroEFCF\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IntroEFCF\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroEFCF\\IntroEFCF\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IntroEFCF\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T04:33:21.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "202412231541234_IntroWithStudentCourseFaculty.cs",
+              "DocumentMoniker": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroEFCF\\IntroEFCF\\Migrations\\202412231541234_IntroWithStudentCourseFaculty.cs",
+              "RelativeDocumentMoniker": "IntroEFCF\\Migrations\\202412231541234_IntroWithStudentCourseFaculty.cs",
+              "ToolTip": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroEFCF\\IntroEFCF\\Migrations\\202412231541234_IntroWithStudentCourseFaculty.cs",
+              "RelativeToolTip": "IntroEFCF\\Migrations\\202412231541234_IntroWithStudentCourseFaculty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:41:26.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroEFCF\\IntroEFCF\\EF\\Tables\\Faculty.cs",
+              "RelativeDocumentMoniker": "IntroEFCF\\EF\\Tables\\Faculty.cs",
+              "ToolTip": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroEFCF\\IntroEFCF\\EF\\Tables\\Faculty.cs",
+              "RelativeToolTip": "IntroEFCF\\EF\\Tables\\Faculty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:32:33.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroEFCF\\IntroEFCF\\EF\\StudentContext.cs",
+              "RelativeDocumentMoniker": "IntroEFCF\\EF\\StudentContext.cs",
+              "ToolTip": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroEFCF\\IntroEFCF\\EF\\StudentContext.cs",
+              "RelativeToolTip": "IntroEFCF\\EF\\StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:12.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroEFCF\\IntroEFCF\\EF\\Tables\\Course.cs",
+              "RelativeDocumentMoniker": "IntroEFCF\\EF\\Tables\\Course.cs",
+              "ToolTip": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroEFCF\\IntroEFCF\\EF\\Tables\\Course.cs",
+              "RelativeToolTip": "IntroEFCF\\EF\\Tables\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:49:56.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroEFCF\\IntroEFCF\\EF\\Tables\\Student.cs",
+              "RelativeDocumentMoniker": "IntroEFCF\\EF\\Tables\\Student.cs",
+              "ToolTip": "D:\\9th Semester\\ADVANCED PROGRAMMING WITH .NET\\FINAL_TERM\\IntroEFCF\\IntroEFCF\\EF\\Tables\\Student.cs",
+              "RelativeToolTip": "IntroEFCF\\EF\\Tables\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:04:52.916Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
